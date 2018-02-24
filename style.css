@@ -1,0 +1,32 @@
+body{
+	font-family: 'Roboto', sans-serif;
+    color: grey;
+}
+/*menu*/
+ul{
+	list-style: none;
+	position: fixed;
+	right: 0;
+}
+li{
+	background-color:black;
+	float: right;
+	color: white;
+	margin: 5px;
+	padding: 5px;
+}
+img.primera{
+	width: 250px;
+	height: 250px;
+	
+}
+h1.tacos1{
+	color:black;
+	text-align: center;
+}
+.footer{
+  	position: bottom;
+ 	padding: 10px;
+  	background-color: black;
+  	color:white;
+  	text-align: center;
